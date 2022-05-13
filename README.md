@@ -1,6 +1,6 @@
 # Flight-search-with-notification
 Search cheapest flights for selected destination and send an email if price is lower than target price
-## Проект в рамках курса 100 Days of Python - промежуточное тестовое задание 38 дня
+## Проект в рамках курса 100 Days of Python - промежуточное тестовое задание 39 дня
 1. Используем google.sheets для хранения данных о желаемых направлениях и максимальных удобных для нас ценах
 2. Используем sheety.co в качестве API для google.sheets 
 3. Используем tequila.kiwi.com для поиска билетов
